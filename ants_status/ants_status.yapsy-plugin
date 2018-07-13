@@ -1,0 +1,9 @@
+[Core]
+Name = ANTS_Status
+Module = ants_status
+
+[Documentation]
+Author = Balz Aschwanden
+Version = 1.0
+Website = https://its.unibas.ch
+Description = Display munki condition ants_status
